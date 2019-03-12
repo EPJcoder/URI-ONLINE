@@ -4,7 +4,7 @@
  *      Meu GitHub: EPJcoder
  *      Linguagem utilizada: C#
  *      Exercício de número: 1002
- *      OBS: para subir o exercício no URI apague o método: Console.ReadKey();
+ *      OBS: Para subir o exercício no URI apague o método: Console.ReadKey();
  */
 
 using System;
