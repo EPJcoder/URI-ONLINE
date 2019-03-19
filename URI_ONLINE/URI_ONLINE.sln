@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI_ONLINE_1009", "URI_ONLI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI_ONLINE_1010", "URI_ONLINE_1010\URI_ONLINE_1010.csproj", "{9BD5D7A1-6432-4594-975B-15B76DF9D248}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI_ONLINE_1011", "URI_ONLINE_1011\URI_ONLINE_1011.csproj", "{92734AAB-1A08-4C60-8BBB-D825141496C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{9BD5D7A1-6432-4594-975B-15B76DF9D248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD5D7A1-6432-4594-975B-15B76DF9D248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD5D7A1-6432-4594-975B-15B76DF9D248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92734AAB-1A08-4C60-8BBB-D825141496C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92734AAB-1A08-4C60-8BBB-D825141496C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92734AAB-1A08-4C60-8BBB-D825141496C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92734AAB-1A08-4C60-8BBB-D825141496C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
