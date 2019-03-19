@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI_ONLINE_1014", "URI_ONLI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI_ONLINE_1015", "URI_ONLINE_1015\URI_ONLINE_1015.csproj", "{4DDC50E5-D031-442B-9811-34D9BF48398E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URI_ONLINE_1016", "URI_ONLINE_1016\URI_ONLINE_1016.csproj", "{166989CD-7976-480E-B3D3-9627C69F77D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{4DDC50E5-D031-442B-9811-34D9BF48398E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDC50E5-D031-442B-9811-34D9BF48398E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDC50E5-D031-442B-9811-34D9BF48398E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166989CD-7976-480E-B3D3-9627C69F77D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166989CD-7976-480E-B3D3-9627C69F77D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166989CD-7976-480E-B3D3-9627C69F77D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166989CD-7976-480E-B3D3-9627C69F77D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
