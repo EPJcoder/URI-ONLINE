@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ *      Exercícios do site https://www.urionlinejudge.com.br
+ *      Programador: Euclydes Penteado Junior
+ *      Meu GitHub: EPJcoder
+ *      Linguagem utilizada: C#
+ *      Exercício de número: 1114
+ *      OBS: Para subir o exercício no URI apague o método: Console.ReadKey();
+ */
+
+using System;
 
 namespace URI_ONLINE_1114
 {
